@@ -4,7 +4,7 @@
 
 # THE BLACK MANSION :black_heart: :unicorn:
 
-
+***The app for The Black Unicorn's home and blog.*** :black_heart: :unicorn:
 
 ## About :books:
 
