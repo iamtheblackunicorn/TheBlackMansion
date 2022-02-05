@@ -13,7 +13,7 @@ I haven't used Flutter and Dart in a while now and I recnetly rebuilt the API vi
 ## Download :inbox_tray:
 
 - ***Angeldust*** (v.1.0.0):
-  - ***[Download for Mac OSX](https://github.com/iamtheblackunicorn/TheBlackMansion/releases/download/v.1.0.0/TheBlackMansion-v1.0.0-Angeldust-Release.app.zip)***
+  - ***COMING SOON!***
 
 ## Building :hammer:
 
