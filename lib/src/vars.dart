@@ -4,6 +4,7 @@ Licensed under the MIT license.
 */
 
 import 'package:dio/dio.dart';
+import 'package:flutter/material.dart';
 
 /// URL for the blog's API.
 String apiUrl = 'https://blckunicorn.art/content/api';
